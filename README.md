@@ -7,6 +7,6 @@ After login, user is re-directed to homepage with logout feature.
 
 Uploaded on 000webhost.
 
-made with Html,CSS,BOOTSTRAP,MYSQL,PHP.
+made with HTML, CSS, BOOTSTRAP, MYSQL, PHP.
 
 Text Editor: sublime Text 2.
