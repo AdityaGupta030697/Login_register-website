@@ -1,5 +1,5 @@
 # Login_register-website
-Website link: https://adityagupta3697.000webhostapp.com/ 
+Website link: https://adityagupta3697.000webhostapp.com/Website/index.html
 
 Basic website with registration and login facility.
 
